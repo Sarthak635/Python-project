@@ -1,7 +1,6 @@
 # Python-project
  This is a sign language translator that we designed for our 3rd semester project. This program uses the landmark approach to obtain data from a set number of images to train our translator model.
- The following functions are beinfg done in the differnet parts of the program:
- Certainly! Here's a simplified use case diagram for the hand sign detection program:
+ Here's a simplified use case diagram for the hand sign detection program:
 
 1. **Collect Hand Sign Images:**
    - **Actor:** User
